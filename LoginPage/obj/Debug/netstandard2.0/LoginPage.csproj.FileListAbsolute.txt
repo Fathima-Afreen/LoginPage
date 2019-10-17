@@ -1,0 +1,14 @@
+/Users/sarannya/Projects/LoginPage/LoginPage/bin/Debug/netstandard2.0/LoginPage.deps.json
+/Users/sarannya/Projects/LoginPage/LoginPage/bin/Debug/netstandard2.0/LoginPage.dll
+/Users/sarannya/Projects/LoginPage/LoginPage/bin/Debug/netstandard2.0/ref/LoginPage.dll
+/Users/sarannya/Projects/LoginPage/LoginPage/bin/Debug/netstandard2.0/LoginPage.pdb
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/View/ImageSlider.xaml.g.cs
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/View/SignIn.xaml.g.cs
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.AssemblyInfoInputs.cache
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.AssemblyInfo.cs
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.dll
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/ref/LoginPage.dll
+/Users/sarannya/Projects/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.pdb

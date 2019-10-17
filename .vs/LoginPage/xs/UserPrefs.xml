@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{438D72E4-CDEB-4208-93EA-F165769613AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginPage/View/ImageSlider.xaml.cs">
+    <Files>
+      <File FileName="LoginPage/MainPage.xaml.cs" Line="32" Column="1" />
+      <File FileName="LoginPage/MainPage.xaml" />
+      <File FileName="LoginPage/ViewModel/LoginViewModel.cs" Line="46" Column="9" />
+      <File FileName="LoginPage/App.xaml" Line="1" Column="1" />
+      <File FileName="LoginPage/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="LoginPage/View/SignIn.xaml" Line="6" Column="7" />
+      <File FileName="LoginPage/View/SignIn.xaml.cs" />
+      <File FileName="LoginPage.Android/MainActivity.cs" />
+      <File FileName="LoginPage/View/ImageSlider.xaml" Line="9" Column="103" />
+      <File FileName="LoginPage/View/ImageSlider.xaml.cs" Line="23" Column="1" />
+      <File FileName="LoginPage/ViewModel/ImageViewModel.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoginPage" expanded="True">
+            <Node name="LoginPage" expanded="True">
+              <Node name="View" expanded="True">
+                <Node name="ImageSlider.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LoginPage.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.ZX1G424DDV" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

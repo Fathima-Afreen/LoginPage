@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="LoginPage.View.ImageSlider" Title="Image View" xmlns:vm="clr-namespace:LoginPage.ViewModel" xmlns:local="clr-namespace:LoginPage.ViewModel;assembly=LoginPage">
+    <StackLayout Padding="10, 10" Orientation="Vertical">
+        <Image Aspect="AspectFill" HorizontalOptions="Fill" VerticalOptions="Fill">
+            <Image.Source>
+                <FileImageSource File="{Binding Images}" />
+            </Image.Source>
+        </Image>
+        <Slider x:Name="slider" Maximum="5" Minimum="1" Value="{Binding SliderValue}" Margin="0,80,0,80" />
+        <Button Text="{Binding Value,Source={x:Reference Name=slider}, StringFormat='Image {0:F0}'}" BackgroundColor="LightBlue" Command="{Binding ButtonCommand}" />
+    </StackLayout>
+</ContentPage>
